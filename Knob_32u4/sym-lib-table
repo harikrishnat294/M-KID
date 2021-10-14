@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Knob_MicroPro-cache)(type Legacy)(uri D:/Knob/Code/KnoB_PCB/Knob_32u4/Knob_MicroPro-cache.lib)(options "")(descr ""))
+)
